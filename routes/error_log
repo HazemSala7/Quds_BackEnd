@@ -1,0 +1,44 @@
+[05-Jul-2022 11:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:32:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:33:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:36:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:37:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:38:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:40:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
+[05-Jul-2022 11:40:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/yaghjiiy/public_html/quds_laravel/routes/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/yaghjiiy/public_html/quds_laravel/routes/api.php on line 19
